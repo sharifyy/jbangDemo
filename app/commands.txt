@@ -1,0 +1,2 @@
+curl -X POST -H "Content-Type: application/json" -d '{"title":"Clean Code","author":"Robert Martin"}' http://localhost:3000/books
+curl http://localhost:3000/books | jq

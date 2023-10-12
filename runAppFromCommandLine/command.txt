@@ -1,0 +1,3 @@
+jbang org.apache.pdfbox:pdfbox-app:3.0.0 export:images --input=./javaToKotlin.pdf
+
+
